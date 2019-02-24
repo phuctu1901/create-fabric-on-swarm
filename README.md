@@ -111,10 +111,7 @@ Cụ thể cho ví dụ trên:
   yarn portainer
   ```
   Đây là lệnh dùng để khởi động portainer, sẽ được truy cập thông qua localhost:9000. Ứng dụng này sẽ hỗ trợ quản lý docker tối ưu và dễ sử dụng hơn các câu lệnh.
-## Tài liệu tham khảo
 
-* [Tài liệu hướng dẫn Hyperledger Composer](https://hyperledger.github.io/composer/latest/introduction/introduction.html)
-* [Tài liệu hướng dẫn Hyperledger Fabric](https://hyperledger-fabric.readthedocs.io/en/release-1.3/)
 
 9. Khởi chạy lệnh ở container cli của hyperledger fabric:
 ```
@@ -131,6 +128,13 @@ Lệnh 10 chỉ chạy khi đã chạy xong lệnh số 9.
 11. Quản lý mạng này với Hypereledger Composer:
 Truy cập tài liệu này [đây](https://hyperledger.github.io/composer/latest/tutorials/deploy-to-fabric-multi-org)
 
+## Tài liệu tham khảo
+
+* [Tài liệu hướng dẫn Hyperledger Composer](https://hyperledger.github.io/composer/latest/introduction/introduction.html)
+* [Tài liệu hướng dẫn Hyperledger Fabric](https://hyperledger-fabric.readthedocs.io/en/release-1.3/)
+* [Video demo](https://youtu.be/hy-zgeZ8Es0)
+* [Bài gốc](https://github.com/blockchainvn/hyperledger-fabric-swarm)
+
 ## Bugs và các vấn đề
 
 Bạn có câu hỏi hoặc vấn đề với dự án? [Đặt câu hỏi](https://github.com/phuctu1901/create-fabric-on-swarm/issues) tại đây trên Github.
@@ -139,7 +143,6 @@ Bạn có câu hỏi hoặc vấn đề với dự án? [Đặt câu hỏi](http
 
 
 ## Tính năng đang phát triển
-*Đăng nhập cho các các nhà trường*
 
 
 ## Tác giả
