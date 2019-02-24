@@ -1,0 +1,421 @@
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:22,650] INFO KafkaConfig values: 
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	advertised.host.name = null
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	advertised.listeners = null
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	advertised.port = null
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	alter.config.policy.class.name = null
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	authorizer.class.name = 
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	auto.create.topics.enable = true
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	auto.leader.rebalance.enable = true
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	background.threads = 10
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	broker.id = 0
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	broker.id.generation.enable = true
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	broker.rack = null
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	compression.type = producer
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:06,399] INFO KafkaConfig values: 
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	advertised.host.name = null
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	connections.max.idle.ms = 600000
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	advertised.listeners = null
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	controlled.shutdown.enable = true
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	advertised.port = null
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	alter.config.policy.class.name = null
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	controlled.shutdown.max.retries = 3
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	authorizer.class.name = 
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	controlled.shutdown.retry.backoff.ms = 5000
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	auto.create.topics.enable = true
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	controller.socket.timeout.ms = 30000
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	auto.leader.rebalance.enable = true
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	background.threads = 10
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	create.topic.policy.class.name = null
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	broker.id = 0
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	default.replication.factor = 3
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	broker.id.generation.enable = true
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	broker.rack = null
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	delete.records.purgatory.purge.interval.requests = 1
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	compression.type = producer
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	connections.max.idle.ms = 600000
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	delete.topic.enable = true
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	controlled.shutdown.enable = true
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	fetch.purgatory.purge.interval.requests = 1000
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	controlled.shutdown.max.retries = 3
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	group.initial.rebalance.delay.ms = 0
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	controlled.shutdown.retry.backoff.ms = 5000
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	controller.socket.timeout.ms = 30000
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	create.topic.policy.class.name = null
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	group.max.session.timeout.ms = 300000
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	default.replication.factor = 3
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	group.min.session.timeout.ms = 6000
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	delete.records.purgatory.purge.interval.requests = 1
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	host.name = 
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	delete.topic.enable = true
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	fetch.purgatory.purge.interval.requests = 1000
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	group.initial.rebalance.delay.ms = 0
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	inter.broker.listener.name = null
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	group.max.session.timeout.ms = 300000
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	inter.broker.protocol.version = 1.0-IV0
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	group.min.session.timeout.ms = 6000
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	host.name = 
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	leader.imbalance.check.interval.seconds = 300
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	inter.broker.listener.name = null
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	inter.broker.protocol.version = 1.0-IV0
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	leader.imbalance.per.broker.percentage = 10
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	leader.imbalance.check.interval.seconds = 300
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	listener.security.protocol.map = PLAINTEXT:PLAINTEXT,SSL:SSL,SASL_PLAINTEXT:SASL_PLAINTEXT,SASL_SSL:SASL_SSL
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	leader.imbalance.per.broker.percentage = 10
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	listeners = null
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	listener.security.protocol.map = PLAINTEXT:PLAINTEXT,SSL:SSL,SASL_PLAINTEXT:SASL_PLAINTEXT,SASL_SSL:SASL_SSL
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	listeners = null
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	log.cleaner.backoff.ms = 15000
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	log.cleaner.backoff.ms = 15000
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	log.cleaner.dedupe.buffer.size = 134217728
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	log.cleaner.dedupe.buffer.size = 134217728
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	log.cleaner.delete.retention.ms = 86400000
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	log.cleaner.delete.retention.ms = 86400000
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	log.cleaner.enable = true
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	log.cleaner.enable = true
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	log.cleaner.io.buffer.load.factor = 0.9
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	log.cleaner.io.buffer.load.factor = 0.9
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	log.cleaner.io.buffer.size = 524288
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	log.cleaner.io.buffer.size = 524288
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	log.cleaner.io.max.bytes.per.second = 1.7976931348623157E308
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	log.cleaner.min.cleanable.ratio = 0.5
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	log.cleaner.min.compaction.lag.ms = 0
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	log.cleaner.io.max.bytes.per.second = 1.7976931348623157E308
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	log.cleaner.threads = 1
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	log.cleaner.min.cleanable.ratio = 0.5
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	log.cleaner.min.compaction.lag.ms = 0
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	log.cleaner.threads = 1
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	log.cleanup.policy = [delete]
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	log.dir = /tmp/kafka-logs
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	log.dirs = /tmp/kafka-logs
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	log.flush.interval.messages = 9223372036854775807
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	log.flush.interval.ms = null
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	log.flush.offset.checkpoint.interval.ms = 60000
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	log.flush.scheduler.interval.ms = 9223372036854775807
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	log.flush.start.offset.checkpoint.interval.ms = 60000
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	log.index.interval.bytes = 4096
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	log.index.size.max.bytes = 10485760
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	log.message.format.version = 1.0-IV0
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	log.message.timestamp.difference.max.ms = 9223372036854775807
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	log.message.timestamp.type = CreateTime
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	log.preallocate = false
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	log.retention.bytes = -1
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	log.retention.check.interval.ms = 300000
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	log.cleanup.policy = [delete]
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	log.dir = /tmp/kafka-logs
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	log.dirs = /tmp/kafka-logs
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	log.flush.interval.messages = 9223372036854775807
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	log.flush.interval.ms = null
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	log.flush.offset.checkpoint.interval.ms = 60000
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	log.flush.scheduler.interval.ms = 9223372036854775807
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	log.flush.start.offset.checkpoint.interval.ms = 60000
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	log.index.interval.bytes = 4096
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	log.index.size.max.bytes = 10485760
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	log.message.format.version = 1.0-IV0
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	log.message.timestamp.difference.max.ms = 9223372036854775807
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	log.message.timestamp.type = CreateTime
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	log.preallocate = false
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	log.retention.bytes = -1
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	log.retention.check.interval.ms = 300000
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	log.retention.hours = 168
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	log.retention.minutes = null
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	log.retention.ms = -1
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	log.roll.hours = 168
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	log.retention.hours = 168
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	log.retention.minutes = null
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	log.retention.ms = -1
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	log.roll.hours = 168
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	log.roll.jitter.hours = 0
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	log.roll.jitter.ms = null
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	log.roll.ms = null
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	log.segment.bytes = 1073741824
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	log.segment.delete.delay.ms = 60000
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	max.connections.per.ip = 2147483647
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	max.connections.per.ip.overrides = 
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	message.max.bytes = 103809024
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	metric.reporters = []
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	metrics.num.samples = 2
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	metrics.recording.level = INFO
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	metrics.sample.window.ms = 30000
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	min.insync.replicas = 2
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	num.io.threads = 8
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	num.network.threads = 3
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	num.partitions = 1
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	num.recovery.threads.per.data.dir = 1
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	num.replica.fetchers = 1
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	offset.metadata.max.bytes = 4096
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	offsets.commit.required.acks = -1
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	offsets.commit.timeout.ms = 5000
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	offsets.load.buffer.size = 5242880
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	offsets.retention.check.interval.ms = 600000
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	offsets.retention.minutes = 1440
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	offsets.topic.compression.codec = 0
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	offsets.topic.num.partitions = 50
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	offsets.topic.replication.factor = 1
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	offsets.topic.segment.bytes = 104857600
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	port = 9092
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	principal.builder.class = null
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	producer.purgatory.purge.interval.requests = 1000
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	queued.max.request.bytes = -1
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	queued.max.requests = 500
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	quota.consumer.default = 9223372036854775807
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	quota.producer.default = 9223372036854775807
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	quota.window.num = 11
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	quota.window.size.seconds = 1
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	replica.fetch.backoff.ms = 1000
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	replica.fetch.max.bytes = 103809024
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	replica.fetch.min.bytes = 1
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	replica.fetch.response.max.bytes = 10485760
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	replica.fetch.wait.max.ms = 500
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	replica.high.watermark.checkpoint.interval.ms = 5000
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	replica.lag.time.max.ms = 10000
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	replica.socket.receive.buffer.bytes = 65536
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	replica.socket.timeout.ms = 30000
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	replication.quota.window.num = 11
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	replication.quota.window.size.seconds = 1
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	request.timeout.ms = 30000
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	reserved.broker.max.id = 1000
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	sasl.enabled.mechanisms = [GSSAPI]
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	sasl.kerberos.min.time.before.relogin = 60000
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	sasl.kerberos.principal.to.local.rules = [DEFAULT]
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	sasl.kerberos.service.name = null
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	sasl.kerberos.ticket.renew.jitter = 0.05
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	sasl.kerberos.ticket.renew.window.factor = 0.8
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	sasl.mechanism.inter.broker.protocol = GSSAPI
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	security.inter.broker.protocol = PLAINTEXT
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	socket.receive.buffer.bytes = 102400
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	socket.request.max.bytes = 104857600
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	socket.send.buffer.bytes = 102400
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	ssl.cipher.suites = null
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	ssl.client.auth = none
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	ssl.endpoint.identification.algorithm = null
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	ssl.key.password = null
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	ssl.keymanager.algorithm = SunX509
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	ssl.keystore.location = null
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	ssl.keystore.password = null
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	ssl.keystore.type = JKS
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	ssl.protocol = TLS
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	ssl.provider = null
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	ssl.secure.random.implementation = null
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	ssl.trustmanager.algorithm = PKIX
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	ssl.truststore.location = null
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	ssl.truststore.password = null
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	ssl.truststore.type = JKS
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	transaction.abort.timed.out.transaction.cleanup.interval.ms = 60000
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	transaction.max.timeout.ms = 900000
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	transaction.remove.expired.transaction.cleanup.interval.ms = 3600000
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	transaction.state.log.load.buffer.size = 5242880
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	transaction.state.log.min.isr = 1
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	transaction.state.log.num.partitions = 50
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	transaction.state.log.replication.factor = 1
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	transaction.state.log.segment.bytes = 104857600
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	transactional.id.expiration.ms = 604800000
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	unclean.leader.election.enable = false
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	zookeeper.connect = zookeeper0:2181,zookeeper1:2181,zookeeper2:2181
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	zookeeper.connection.timeout.ms = 6000
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	zookeeper.session.timeout.ms = 6000
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	zookeeper.set.acl = false
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | 	zookeeper.sync.time.ms = 2000
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    |  (kafka.server.KafkaConfig)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:22,720] INFO starting (kafka.server.KafkaServer)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:22,721] INFO Connecting to zookeeper on zookeeper0:2181,zookeeper1:2181,zookeeper2:2181 (kafka.server.KafkaServer)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:22,733] INFO Starting ZkClient event thread. (org.I0Itec.zkclient.ZkEventThread)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:22,738] INFO Client environment:zookeeper.version=3.4.10-39d3a4f269333c922ed3db283be479f9deacaa0f, built on 03/23/2017 10:13 GMT (org.apache.zookeeper.ZooKeeper)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:22,738] INFO Client environment:host.name=kafka0.example.com (org.apache.zookeeper.ZooKeeper)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:22,738] INFO Client environment:java.version=1.8.0_181 (org.apache.zookeeper.ZooKeeper)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:22,738] INFO Client environment:java.vendor=Oracle Corporation (org.apache.zookeeper.ZooKeeper)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:22,739] INFO Client environment:java.home=/usr/lib/jvm/java-8-openjdk-amd64/jre (org.apache.zookeeper.ZooKeeper)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:22,739] INFO Client environment:java.class.path=:/opt/kafka/bin/../libs/aopalliance-repackaged-2.5.0-b32.jar:/opt/kafka/bin/../libs/argparse4j-0.7.0.jar:/opt/kafka/bin/../libs/commons-lang3-3.5.jar:/opt/kafka/bin/../libs/connect-api-1.0.0.jar:/opt/kafka/bin/../libs/connect-file-1.0.0.jar:/opt/kafka/bin/../libs/connect-json-1.0.0.jar:/opt/kafka/bin/../libs/connect-runtime-1.0.0.jar:/opt/kafka/bin/../libs/connect-transforms-1.0.0.jar:/opt/kafka/bin/../libs/guava-20.0.jar:/opt/kafka/bin/../libs/hk2-api-2.5.0-b32.jar:/opt/kafka/bin/../libs/hk2-locator-2.5.0-b32.jar:/opt/kafka/bin/../libs/hk2-utils-2.5.0-b32.jar:/opt/kafka/bin/../libs/jackson-annotations-2.9.1.jar:/opt/kafka/bin/../libs/jackson-core-2.9.1.jar:/opt/kafka/bin/../libs/jackson-databind-2.9.1.jar:/opt/kafka/bin/../libs/jackson-jaxrs-base-2.9.1.jar:/opt/kafka/bin/../libs/jackson-jaxrs-json-provider-2.9.1.jar:/opt/kafka/bin/../libs/jackson-module-jaxb-annotations-2.9.1.jar:/opt/kafka/bin/../libs/javassist-3.20.0-GA.jar:/opt/kafka/bin/../libs/javassist-3.21.0-GA.jar:/opt/kafka/bin/../libs/javax.annotation-api-1.2.jar:/opt/kafka/bin/../libs/javax.inject-1.jar:/opt/kafka/bin/../libs/javax.inject-2.5.0-b32.jar:/opt/kafka/bin/../libs/javax.servlet-api-3.1.0.jar:/opt/kafka/bin/../libs/javax.ws.rs-api-2.0.1.jar:/opt/kafka/bin/../libs/jersey-client-2.25.1.jar:/opt/kafka/bin/../libs/jersey-common-2.25.1.jar:/opt/kafka/bin/../libs/jersey-container-servlet-2.25.1.jar:/opt/kafka/bin/../libs/jersey-container-servlet-core-2.25.1.jar:/opt/kafka/bin/../libs/jersey-guava-2.25.1.jar:/opt/kafka/bin/../libs/jersey-media-jaxb-2.25.1.jar:/opt/kafka/bin/../libs/jersey-server-2.25.1.jar:/opt/kafka/bin/../libs/jetty-continuation-9.2.22.v20170606.jar:/opt/kafka/bin/../libs/jetty-http-9.2.22.v20170606.jar:/opt/kafka/bin/../libs/jetty-io-9.2.22.v20170606.jar:/opt/kafka/bin/../libs/jetty-security-9.2.22.v20170606.jar:/opt/kafka/bin/../libs/jetty-server-9.2.22.v20170606.jar:/opt/kafka/bin/../libs/jetty-servlet-9.2.22.v20170606.jar:/opt/kafka/bin/../libs/jetty-servlets-9.2.22.v20170606.jar:/opt/kafka/bin/../libs/jetty-util-9.2.22.v20170606.jar:/opt/kafka/bin/../libs/jopt-simple-5.0.4.jar:/opt/kafka/bin/../libs/kafka-clients-1.0.0.jar:/opt/kafka/bin/../libs/kafka-log4j-appender-1.0.0.jar:/opt/kafka/bin/../libs/kafka-streams-1.0.0.jar:/opt/kafka/bin/../libs/kafka-streams-examples-1.0.0.jar:/opt/kafka/bin/../libs/kafka-tools-1.0.0.jar:/opt/kafka/bin/../libs/kafka_2.11-1.0.0-sources.jar:/opt/kafka/bin/../libs/kafka_2.11-1.0.0-test-sources.jar:/opt/kafka/bin/../libs/kafka_2.11-1.0.0.jar:/opt/kafka/bin/../libs/log4j-1.2.17.jar:/opt/kafka/bin/../libs/lz4-java-1.4.jar:/opt/kafka/bin/../libs/maven-artifact-3.5.0.jar:/opt/kafka/bin/../libs/metrics-core-2.2.0.jar:/opt/kafka/bin/../libs/osgi-resource-locator-1.0.1.jar:/opt/kafka/bin/../libs/plexus-utils-3.0.24.jar:/opt/kafka/bin/../libs/reflections-0.9.11.jar:/opt/kafka/bin/../libs/rocksdbjni-5.7.3.jar:/opt/kafka/bin/../libs/scala-library-2.11.11.jar:/opt/kafka/bin/../libs/slf4j-api-1.7.25.jar:/opt/kafka/bin/../libs/slf4j-log4j12-1.7.25.jar:/opt/kafka/bin/../libs/snappy-java-1.1.4.jar:/opt/kafka/bin/../libs/validation-api-1.1.0.Final.jar:/opt/kafka/bin/../libs/zkclient-0.10.jar:/opt/kafka/bin/../libs/zookeeper-3.4.10.jar (org.apache.zookeeper.ZooKeeper)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:22,739] INFO Client environment:java.library.path=/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib (org.apache.zookeeper.ZooKeeper)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:22,739] INFO Client environment:java.io.tmpdir=/tmp (org.apache.zookeeper.ZooKeeper)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:22,739] INFO Client environment:java.compiler=<NA> (org.apache.zookeeper.ZooKeeper)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:22,739] INFO Client environment:os.name=Linux (org.apache.zookeeper.ZooKeeper)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:22,739] INFO Client environment:os.arch=amd64 (org.apache.zookeeper.ZooKeeper)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:22,739] INFO Client environment:os.version=4.15.0-43-generic (org.apache.zookeeper.ZooKeeper)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:22,739] INFO Client environment:user.name=root (org.apache.zookeeper.ZooKeeper)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:22,739] INFO Client environment:user.home=/root (org.apache.zookeeper.ZooKeeper)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:22,739] INFO Client environment:user.dir=/ (org.apache.zookeeper.ZooKeeper)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:22,740] INFO Initiating client connection, connectString=zookeeper0:2181,zookeeper1:2181,zookeeper2:2181 sessionTimeout=6000 watcher=org.I0Itec.zkclient.ZkClient@6572421 (org.apache.zookeeper.ZooKeeper)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:22,755] INFO Waiting for keeper state SyncConnected (org.I0Itec.zkclient.ZkClient)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:22,883] INFO Opening socket connection to server 10.200.1.33/10.200.1.33:2181. Will not attempt to authenticate using SASL (unknown error) (org.apache.zookeeper.ClientCnxn)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:22,890] INFO Socket connection established to 10.200.1.33/10.200.1.33:2181, initiating session (org.apache.zookeeper.ClientCnxn)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:22,935] INFO Session establishment complete on server 10.200.1.33/10.200.1.33:2181, sessionid = 0x1686eeb82a30001, negotiated timeout = 6000 (org.apache.zookeeper.ClientCnxn)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:22,937] INFO zookeeper state changed (SyncConnected) (org.I0Itec.zkclient.ZkClient)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:23,143] INFO Cluster ID = aDGVW_7zQq643C20sDGVMA (kafka.server.KafkaServer)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:23,153] WARN No meta.properties file under dir /tmp/kafka-logs/meta.properties (kafka.server.BrokerMetadataCheckpoint)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:23,180] INFO [ThrottledRequestReaper-Fetch]: Starting (kafka.server.ClientQuotaManager$ThrottledRequestReaper)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:23,180] INFO [ThrottledRequestReaper-Produce]: Starting (kafka.server.ClientQuotaManager$ThrottledRequestReaper)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:23,181] INFO [ThrottledRequestReaper-Request]: Starting (kafka.server.ClientQuotaManager$ThrottledRequestReaper)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:23,211] INFO Log directory '/tmp/kafka-logs' not found, creating it. (kafka.log.LogManager)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:23,221] INFO Loading logs. (kafka.log.LogManager)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:23,227] INFO Logs loading complete in 6 ms. (kafka.log.LogManager)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:23,321] INFO Starting log cleanup with a period of 300000 ms. (kafka.log.LogManager)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:23,323] INFO Starting log flusher with a default period of 9223372036854775807 ms. (kafka.log.LogManager)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:23,623] INFO Awaiting socket connections on 0.0.0.0:9092. (kafka.network.Acceptor)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:23,627] INFO [SocketServer brokerId=0] Started 1 acceptor threads (kafka.network.SocketServer)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:23,671] INFO [ExpirationReaper-0-Produce]: Starting (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:23,672] INFO [ExpirationReaper-0-Fetch]: Starting (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:23,673] INFO [ExpirationReaper-0-DeleteRecords]: Starting (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:23,685] INFO [LogDirFailureHandler]: Starting (kafka.server.ReplicaManager$LogDirFailureHandler)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:23,725] INFO [ExpirationReaper-0-topic]: Starting (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:23,730] INFO [ExpirationReaper-0-Heartbeat]: Starting (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:23,732] INFO [ExpirationReaper-0-Rebalance]: Starting (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:23,751] INFO [GroupCoordinator 0]: Starting up. (kafka.coordinator.group.GroupCoordinator)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:23,754] INFO [GroupCoordinator 0]: Startup complete. (kafka.coordinator.group.GroupCoordinator)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	log.roll.jitter.hours = 0
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	log.roll.jitter.ms = null
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	log.roll.ms = null
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	log.segment.bytes = 1073741824
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	log.segment.delete.delay.ms = 60000
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:23,755] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 1 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	max.connections.per.ip = 2147483647
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:23,822] INFO [ProducerId Manager 0]: Acquired new producerId block (brokerId:0,blockStartProducerId:2000,blockEndProducerId:2999) by writing to Zk with path version 3 (kafka.coordinator.transaction.ProducerIdManager)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	max.connections.per.ip.overrides = 
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	message.max.bytes = 103809024
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:23,846] INFO [TransactionCoordinator id=0] Starting up. (kafka.coordinator.transaction.TransactionCoordinator)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	metric.reporters = []
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:23,849] INFO [Transaction Marker Channel Manager 0]: Starting (kafka.coordinator.transaction.TransactionMarkerChannelManager)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	metrics.num.samples = 2
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:23,849] INFO [TransactionCoordinator id=0] Startup complete. (kafka.coordinator.transaction.TransactionCoordinator)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	metrics.recording.level = INFO
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:23,915] INFO Creating /brokers/ids/0 (is it secure? false) (kafka.utils.ZKCheckedEphemeral)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	metrics.sample.window.ms = 30000
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:23,933] INFO Result of znode creation is: OK (kafka.utils.ZKCheckedEphemeral)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	min.insync.replicas = 2
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:23,935] INFO Registered broker 0 at path /brokers/ids/0 with addresses: EndPoint(kafka0.example.com,9092,ListenerName(PLAINTEXT),PLAINTEXT) (kafka.utils.ZkUtils)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	num.io.threads = 8
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:23,938] WARN No meta.properties file under dir /tmp/kafka-logs/meta.properties (kafka.server.BrokerMetadataCheckpoint)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	num.network.threads = 3
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:23,988] INFO Kafka version : 1.0.0 (org.apache.kafka.common.utils.AppInfoParser)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	num.partitions = 1
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:23,988] INFO Kafka commitId : aaa7af6d4a11b29d (org.apache.kafka.common.utils.AppInfoParser)
+hyperledger-kafka_kafka0.1.gsvdt2t8t235@alex    | [2019-01-21 05:39:23,989] INFO [KafkaServer id=0] started (kafka.server.KafkaServer)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	num.recovery.threads.per.data.dir = 1
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	num.replica.fetchers = 1
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	offset.metadata.max.bytes = 4096
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	offsets.commit.required.acks = -1
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	offsets.commit.timeout.ms = 5000
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	offsets.load.buffer.size = 5242880
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	offsets.retention.check.interval.ms = 600000
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	offsets.retention.minutes = 1440
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	offsets.topic.compression.codec = 0
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	offsets.topic.num.partitions = 50
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	offsets.topic.replication.factor = 1
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	offsets.topic.segment.bytes = 104857600
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	port = 9092
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	principal.builder.class = null
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	producer.purgatory.purge.interval.requests = 1000
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	queued.max.request.bytes = -1
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	queued.max.requests = 500
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	quota.consumer.default = 9223372036854775807
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	quota.producer.default = 9223372036854775807
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	quota.window.num = 11
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	quota.window.size.seconds = 1
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	replica.fetch.backoff.ms = 1000
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	replica.fetch.max.bytes = 103809024
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	replica.fetch.min.bytes = 1
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	replica.fetch.response.max.bytes = 10485760
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	replica.fetch.wait.max.ms = 500
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	replica.high.watermark.checkpoint.interval.ms = 5000
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	replica.lag.time.max.ms = 10000
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	replica.socket.receive.buffer.bytes = 65536
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	replica.socket.timeout.ms = 30000
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	replication.quota.window.num = 11
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	replication.quota.window.size.seconds = 1
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	request.timeout.ms = 30000
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	reserved.broker.max.id = 1000
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	sasl.enabled.mechanisms = [GSSAPI]
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	sasl.kerberos.min.time.before.relogin = 60000
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	sasl.kerberos.principal.to.local.rules = [DEFAULT]
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	sasl.kerberos.service.name = null
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	sasl.kerberos.ticket.renew.jitter = 0.05
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	sasl.kerberos.ticket.renew.window.factor = 0.8
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	sasl.mechanism.inter.broker.protocol = GSSAPI
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	security.inter.broker.protocol = PLAINTEXT
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	socket.receive.buffer.bytes = 102400
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	socket.request.max.bytes = 104857600
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	socket.send.buffer.bytes = 102400
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	ssl.cipher.suites = null
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	ssl.client.auth = none
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	ssl.endpoint.identification.algorithm = null
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	ssl.key.password = null
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	ssl.keymanager.algorithm = SunX509
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	ssl.keystore.location = null
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	ssl.keystore.password = null
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	ssl.keystore.type = JKS
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	ssl.protocol = TLS
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	ssl.provider = null
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	ssl.secure.random.implementation = null
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	ssl.trustmanager.algorithm = PKIX
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	ssl.truststore.location = null
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	ssl.truststore.password = null
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	ssl.truststore.type = JKS
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	transaction.abort.timed.out.transaction.cleanup.interval.ms = 60000
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	transaction.max.timeout.ms = 900000
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	transaction.remove.expired.transaction.cleanup.interval.ms = 3600000
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	transaction.state.log.load.buffer.size = 5242880
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	transaction.state.log.min.isr = 1
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	transaction.state.log.num.partitions = 50
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	transaction.state.log.replication.factor = 1
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	transaction.state.log.segment.bytes = 104857600
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	transactional.id.expiration.ms = 604800000
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	unclean.leader.election.enable = false
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	zookeeper.connect = zookeeper0:2181,zookeeper1:2181,zookeeper2:2181
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	zookeeper.connection.timeout.ms = 6000
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	zookeeper.session.timeout.ms = 6000
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	zookeeper.set.acl = false
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	zookeeper.sync.time.ms = 2000
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    |  (kafka.server.KafkaConfig)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:06,438] INFO starting (kafka.server.KafkaServer)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:06,439] INFO Connecting to zookeeper on zookeeper0:2181,zookeeper1:2181,zookeeper2:2181 (kafka.server.KafkaServer)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:06,448] INFO Starting ZkClient event thread. (org.I0Itec.zkclient.ZkEventThread)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:06,452] INFO Client environment:zookeeper.version=3.4.10-39d3a4f269333c922ed3db283be479f9deacaa0f, built on 03/23/2017 10:13 GMT (org.apache.zookeeper.ZooKeeper)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:06,452] INFO Client environment:host.name=kafka0.example.com (org.apache.zookeeper.ZooKeeper)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:06,452] INFO Client environment:java.version=1.8.0_181 (org.apache.zookeeper.ZooKeeper)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:06,452] INFO Client environment:java.vendor=Oracle Corporation (org.apache.zookeeper.ZooKeeper)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:06,452] INFO Client environment:java.home=/usr/lib/jvm/java-8-openjdk-amd64/jre (org.apache.zookeeper.ZooKeeper)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:06,452] INFO Client environment:java.class.path=:/opt/kafka/bin/../libs/aopalliance-repackaged-2.5.0-b32.jar:/opt/kafka/bin/../libs/argparse4j-0.7.0.jar:/opt/kafka/bin/../libs/commons-lang3-3.5.jar:/opt/kafka/bin/../libs/connect-api-1.0.0.jar:/opt/kafka/bin/../libs/connect-file-1.0.0.jar:/opt/kafka/bin/../libs/connect-json-1.0.0.jar:/opt/kafka/bin/../libs/connect-runtime-1.0.0.jar:/opt/kafka/bin/../libs/connect-transforms-1.0.0.jar:/opt/kafka/bin/../libs/guava-20.0.jar:/opt/kafka/bin/../libs/hk2-api-2.5.0-b32.jar:/opt/kafka/bin/../libs/hk2-locator-2.5.0-b32.jar:/opt/kafka/bin/../libs/hk2-utils-2.5.0-b32.jar:/opt/kafka/bin/../libs/jackson-annotations-2.9.1.jar:/opt/kafka/bin/../libs/jackson-core-2.9.1.jar:/opt/kafka/bin/../libs/jackson-databind-2.9.1.jar:/opt/kafka/bin/../libs/jackson-jaxrs-base-2.9.1.jar:/opt/kafka/bin/../libs/jackson-jaxrs-json-provider-2.9.1.jar:/opt/kafka/bin/../libs/jackson-module-jaxb-annotations-2.9.1.jar:/opt/kafka/bin/../libs/javassist-3.20.0-GA.jar:/opt/kafka/bin/../libs/javassist-3.21.0-GA.jar:/opt/kafka/bin/../libs/javax.annotation-api-1.2.jar:/opt/kafka/bin/../libs/javax.inject-1.jar:/opt/kafka/bin/../libs/javax.inject-2.5.0-b32.jar:/opt/kafka/bin/../libs/javax.servlet-api-3.1.0.jar:/opt/kafka/bin/../libs/javax.ws.rs-api-2.0.1.jar:/opt/kafka/bin/../libs/jersey-client-2.25.1.jar:/opt/kafka/bin/../libs/jersey-common-2.25.1.jar:/opt/kafka/bin/../libs/jersey-container-servlet-2.25.1.jar:/opt/kafka/bin/../libs/jersey-container-servlet-core-2.25.1.jar:/opt/kafka/bin/../libs/jersey-guava-2.25.1.jar:/opt/kafka/bin/../libs/jersey-media-jaxb-2.25.1.jar:/opt/kafka/bin/../libs/jersey-server-2.25.1.jar:/opt/kafka/bin/../libs/jetty-continuation-9.2.22.v20170606.jar:/opt/kafka/bin/../libs/jetty-http-9.2.22.v20170606.jar:/opt/kafka/bin/../libs/jetty-io-9.2.22.v20170606.jar:/opt/kafka/bin/../libs/jetty-security-9.2.22.v20170606.jar:/opt/kafka/bin/../libs/jetty-server-9.2.22.v20170606.jar:/opt/kafka/bin/../libs/jetty-servlet-9.2.22.v20170606.jar:/opt/kafka/bin/../libs/jetty-servlets-9.2.22.v20170606.jar:/opt/kafka/bin/../libs/jetty-util-9.2.22.v20170606.jar:/opt/kafka/bin/../libs/jopt-simple-5.0.4.jar:/opt/kafka/bin/../libs/kafka-clients-1.0.0.jar:/opt/kafka/bin/../libs/kafka-log4j-appender-1.0.0.jar:/opt/kafka/bin/../libs/kafka-streams-1.0.0.jar:/opt/kafka/bin/../libs/kafka-streams-examples-1.0.0.jar:/opt/kafka/bin/../libs/kafka-tools-1.0.0.jar:/opt/kafka/bin/../libs/kafka_2.11-1.0.0-sources.jar:/opt/kafka/bin/../libs/kafka_2.11-1.0.0-test-sources.jar:/opt/kafka/bin/../libs/kafka_2.11-1.0.0.jar:/opt/kafka/bin/../libs/log4j-1.2.17.jar:/opt/kafka/bin/../libs/lz4-java-1.4.jar:/opt/kafka/bin/../libs/maven-artifact-3.5.0.jar:/opt/kafka/bin/../libs/metrics-core-2.2.0.jar:/opt/kafka/bin/../libs/osgi-resource-locator-1.0.1.jar:/opt/kafka/bin/../libs/plexus-utils-3.0.24.jar:/opt/kafka/bin/../libs/reflections-0.9.11.jar:/opt/kafka/bin/../libs/rocksdbjni-5.7.3.jar:/opt/kafka/bin/../libs/scala-library-2.11.11.jar:/opt/kafka/bin/../libs/slf4j-api-1.7.25.jar:/opt/kafka/bin/../libs/slf4j-log4j12-1.7.25.jar:/opt/kafka/bin/../libs/snappy-java-1.1.4.jar:/opt/kafka/bin/../libs/validation-api-1.1.0.Final.jar:/opt/kafka/bin/../libs/zkclient-0.10.jar:/opt/kafka/bin/../libs/zookeeper-3.4.10.jar (org.apache.zookeeper.ZooKeeper)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:06,452] INFO Client environment:java.library.path=/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib (org.apache.zookeeper.ZooKeeper)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:06,452] INFO Client environment:java.io.tmpdir=/tmp (org.apache.zookeeper.ZooKeeper)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:06,452] INFO Client environment:java.compiler=<NA> (org.apache.zookeeper.ZooKeeper)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:06,453] INFO Client environment:os.name=Linux (org.apache.zookeeper.ZooKeeper)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:06,453] INFO Client environment:os.arch=amd64 (org.apache.zookeeper.ZooKeeper)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:06,453] INFO Client environment:os.version=4.15.0-43-generic (org.apache.zookeeper.ZooKeeper)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:06,453] INFO Client environment:user.name=root (org.apache.zookeeper.ZooKeeper)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:06,453] INFO Client environment:user.home=/root (org.apache.zookeeper.ZooKeeper)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:06,453] INFO Client environment:user.dir=/ (org.apache.zookeeper.ZooKeeper)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:06,453] INFO Initiating client connection, connectString=zookeeper0:2181,zookeeper1:2181,zookeeper2:2181 sessionTimeout=6000 watcher=org.I0Itec.zkclient.ZkClient@6572421 (org.apache.zookeeper.ZooKeeper)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:06,463] INFO Waiting for keeper state SyncConnected (org.I0Itec.zkclient.ZkClient)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:07,946] INFO Opening socket connection to server 10.200.1.33/10.200.1.33:2181. Will not attempt to authenticate using SASL (unknown error) (org.apache.zookeeper.ClientCnxn)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:07,955] INFO Socket connection established to 10.200.1.33/10.200.1.33:2181, initiating session (org.apache.zookeeper.ClientCnxn)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:07,962] INFO Unable to read additional data from server sessionid 0x0, likely server has closed socket, closing socket connection and attempting reconnect (org.apache.zookeeper.ClientCnxn)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:09,715] INFO Opening socket connection to server 10.200.1.31/10.200.1.31:2181. Will not attempt to authenticate using SASL (unknown error) (org.apache.zookeeper.ClientCnxn)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:09,715] INFO Socket connection established to 10.200.1.31/10.200.1.31:2181, initiating session (org.apache.zookeeper.ClientCnxn)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:09,716] INFO Unable to read additional data from server sessionid 0x0, likely server has closed socket, closing socket connection and attempting reconnect (org.apache.zookeeper.ClientCnxn)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:10,933] INFO Opening socket connection to server 10.200.1.28/10.200.1.28:2181. Will not attempt to authenticate using SASL (unknown error) (org.apache.zookeeper.ClientCnxn)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:10,934] INFO Socket connection established to 10.200.1.28/10.200.1.28:2181, initiating session (org.apache.zookeeper.ClientCnxn)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:10,936] INFO Unable to read additional data from server sessionid 0x0, likely server has closed socket, closing socket connection and attempting reconnect (org.apache.zookeeper.ClientCnxn)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:12,465] INFO Terminate ZkClient event thread. (org.I0Itec.zkclient.ZkEventThread)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:12,819] INFO Opening socket connection to server 10.200.1.33/10.200.1.33:2181. Will not attempt to authenticate using SASL (unknown error) (org.apache.zookeeper.ClientCnxn)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:12,820] INFO Socket connection established to 10.200.1.33/10.200.1.33:2181, initiating session (org.apache.zookeeper.ClientCnxn)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:12,925] INFO Session: 0x0 closed (org.apache.zookeeper.ZooKeeper)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:12,926] FATAL Fatal error during KafkaServer startup. Prepare to shutdown (kafka.server.KafkaServer)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | org.I0Itec.zkclient.exception.ZkTimeoutException: Unable to connect to zookeeper server 'zookeeper0:2181,zookeeper1:2181,zookeeper2:2181' with timeout of 6000 ms
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	at org.I0Itec.zkclient.ZkClient.connect(ZkClient.java:1233)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	at org.I0Itec.zkclient.ZkClient.<init>(ZkClient.java:157)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	at org.I0Itec.zkclient.ZkClient.<init>(ZkClient.java:131)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	at kafka.utils.ZkUtils$.createZkClientAndConnection(ZkUtils.scala:115)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	at kafka.utils.ZkUtils$.withMetrics(ZkUtils.scala:92)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	at kafka.server.KafkaServer.initZk(KafkaServer.scala:346)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	at kafka.server.KafkaServer.startup(KafkaServer.scala:194)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	at kafka.server.KafkaServerStartable.startup(KafkaServerStartable.scala:38)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	at kafka.Kafka$.main(Kafka.scala:92)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | 	at kafka.Kafka.main(Kafka.scala)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:12,927] INFO EventThread shut down for session: 0x0 (org.apache.zookeeper.ClientCnxn)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:12,929] INFO shutting down (kafka.server.KafkaServer)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:12,934] INFO shut down completed (kafka.server.KafkaServer)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:12,935] FATAL Exiting Kafka. (kafka.server.KafkaServerStartable)
+hyperledger-kafka_kafka0.1.xpvmmykwvxqv@alex    | [2019-01-21 05:39:12,936] INFO shutting down (kafka.server.KafkaServer)
