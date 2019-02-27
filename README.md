@@ -30,7 +30,7 @@ Cài đặt môi trường theo hướng dẫn:
 
 1. Clone this git:
 ```
-  git clone https://github.com/blockchainvn/hyperledger-fabric-swarm.git
+  git clone https://github.com/phuctu1901/create-fabric-on-swarm
 ```
 
 2. Mở các cổng cho Swarm:
