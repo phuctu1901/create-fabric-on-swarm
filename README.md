@@ -35,8 +35,13 @@ Cài đặt môi trường theo hướng dẫn:
 
 2. Mở các cổng cho Swarm:
 ```
-    firewall-cmd --permanent --zone=public --add-port=2377/tcp --add-port=7946/tcp --add-port=7946/udp --add-port=4789/udp
-  firewall-cmd --reload
+sudo apt-get install firewalld
+sudo systemctl start firewalld
+sudo systemctl enable firewalld
+sudo systemctl status firewalld
+
+firewall-cmd --permanent --zone=public --add-port=2377/tcp --add-port=7946/tcp --add-port=7946/udp --add-port=4789/udp
+firewall-cmd --reload
 ```
 
 3. Khởi tạo một swarm:
@@ -87,18 +92,19 @@ Cụ thể cho ví dụ trên:
  mkdir -p channel-artifacts
  yarn genArtifacts -c mychannel -d example.com -o 2
 ```
+Lưu ý: Ở bước này, cần cài đặt đầy đủ các tools, mà ở đây là thư mục bin.
 8. Khởi chạy:
 * On Master host,
   * If you choose to configure with multiple orderers,
 
 ```
-  yarn start
+  ./run.sh
 ```
 
 * If you choose to configure in 'solo' mode (without kafka, zookeeper). Chúng ta sẽ thực hiện lệnh này cho ví dụ trên.
 
 ```
-  yarn start-solo
+  ./run-solo.sh
 ```
 
 * I recommend you to check services' status after every deploy.
