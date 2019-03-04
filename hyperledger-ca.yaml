@@ -22,9 +22,9 @@ services:
     - FABRIC_CA_SERVER_CA_NAME=ca-org1
     - FABRIC_CA_SERVER_TLS_ENABLED=true
     - FABRIC_CA_SERVER_TLS_CERTFILE=/etc/hyperledger/fabric-ca-server-config/ca.org1.example.com-cert.pem
-    - FABRIC_CA_SERVER_TLS_KEYFILE=/etc/hyperledger/fabric-ca-server-config/c47be7d4f08cc35f7a85af06bc1df69eb9cb237e7cd6898cc0bed94ba7315043_sk
+    - FABRIC_CA_SERVER_TLS_KEYFILE=/etc/hyperledger/fabric-ca-server-config/8a98127adfc4640e259e1c97dc9b4e16bd5dc62576f7c073c902b44919949ef1_sk
     command: sh -c 'fabric-ca-server start --ca.certfile /etc/hyperledger/fabric-ca-server-config/ca.org1.example.com-cert.pem
-      --ca.keyfile /etc/hyperledger/fabric-ca-server-config/c47be7d4f08cc35f7a85af06bc1df69eb9cb237e7cd6898cc0bed94ba7315043_sk -b admin:adminpw
+      --ca.keyfile /etc/hyperledger/fabric-ca-server-config/8a98127adfc4640e259e1c97dc9b4e16bd5dc62576f7c073c902b44919949ef1_sk -b admin:adminpw
       -d'
     volumes:
     - ./crypto-config/peerOrganizations/org1.example.com/ca/:/etc/hyperledger/fabric-ca-server-config
@@ -46,9 +46,9 @@ services:
     - FABRIC_CA_SERVER_CA_NAME=ca-org2
     - FABRIC_CA_SERVER_TLS_ENABLED=true
     - FABRIC_CA_SERVER_TLS_CERTFILE=/etc/hyperledger/fabric-ca-server-config/ca.org2.example.com-cert.pem
-    - FABRIC_CA_SERVER_TLS_KEYFILE=/etc/hyperledger/fabric-ca-server-config/e725653d149a89475694801f3b8ccdafd2bf2362911773ccb7f13e1cba255327_sk
+    - FABRIC_CA_SERVER_TLS_KEYFILE=/etc/hyperledger/fabric-ca-server-config/85c06956914fa440cffc408c8a2c019459750f641f182cfea5f447d349e679db_sk
     command: sh -c 'fabric-ca-server start --ca.certfile /etc/hyperledger/fabric-ca-server-config/ca.org2.example.com-cert.pem
-      --ca.keyfile /etc/hyperledger/fabric-ca-server-config/e725653d149a89475694801f3b8ccdafd2bf2362911773ccb7f13e1cba255327_sk -b admin:adminpw
+      --ca.keyfile /etc/hyperledger/fabric-ca-server-config/85c06956914fa440cffc408c8a2c019459750f641f182cfea5f447d349e679db_sk -b admin:adminpw
       -d'
     volumes:
     - ./crypto-config/peerOrganizations/org2.example.com/ca/:/etc/hyperledger/fabric-ca-server-config

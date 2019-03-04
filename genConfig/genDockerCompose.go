@@ -242,7 +242,7 @@ func GenService(dockerCompose *DockerCompose, domainName string, serviceName str
 			}
 			service.Environment = make([]string, 17)
 			service.Environment[0] = "CORE_VM_ENDPOINT=unix:///host/var/run/docker.sock"
-			service.Environment[1] = "CORE_LOGGING_LEVEL=DEBUG"
+			service.Environment[1] = "FABRIC_LOGGING_SPEC=DEBUG"
 			service.Environment[2] = "CORE_PEER_TLS_ENABLED=true"
 			service.Environment[3] = "CORE_PEER_GOSSIP_USELEADERELECTION=true"
 			service.Environment[4] = "CORE_PEER_GOSSIP_ORGLEADER=false"
@@ -281,7 +281,7 @@ func GenService(dockerCompose *DockerCompose, domainName string, serviceName str
 			service.Environment[0] = "CORE_VM_DOCKER_HOSTCONFIG_NETWORKMODE=" + networkName
 			service.Environment[1] = "GOPATH=/opt/gopath"
 			service.Environment[2] = "CORE_VM_ENDPOINT=unix:///host/var/run/docker.sock"
-			service.Environment[3] = "CORE_LOGGING_LEVEL=DEBUG"
+			service.Environment[3] = "FABRIC_LOGGING_SPEC=DEBUG"
 			service.Environment[4] = "CORE_PEER_ID=cli"
 			service.Environment[5] = "CORE_PEER_ADDRESS=peer0.org1." + domainName + ":7051"
 			service.Environment[6] = "CORE_PEER_LOCALMSPID=Org1MSP"

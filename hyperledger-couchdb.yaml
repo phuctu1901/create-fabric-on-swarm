@@ -13,6 +13,11 @@ services:
         max_attempts: 3
     hostname: couchdb0.example.com
     image: hyperledger/fabric-couchdb:latest
+    environment:
+      - COUCHDB_USER=
+      - COUCHDB_PASSWORD=
+    ports:
+      - "5984:5984"
     networks:
       hyperledger-ov:
         aliases:
@@ -26,6 +31,11 @@ services:
         max_attempts: 3
     hostname: couchdb1.example.com
     image: hyperledger/fabric-couchdb:latest
+    environment:
+      - COUCHDB_USER=
+      - COUCHDB_PASSWORD=
+    ports:
+      - "6984:5984"
     networks:
       hyperledger-ov:
         aliases:
@@ -39,6 +49,11 @@ services:
         max_attempts: 3
     hostname: couchdb2.example.com
     image: hyperledger/fabric-couchdb:latest
+    environment:
+      - COUCHDB_USER=
+      - COUCHDB_PASSWORD=
+    ports:
+      - "7984:5984"
     networks:
       hyperledger-ov:
         aliases:
@@ -52,6 +67,11 @@ services:
         max_attempts: 3
     hostname: couchdb3.example.com
     image: hyperledger/fabric-couchdb:latest
+    environment:
+      - COUCHDB_USER=
+      - COUCHDB_PASSWORD=
+    ports:
+      - "8984:5984"
     networks:
       hyperledger-ov:
         aliases:
