@@ -69,7 +69,7 @@ docker swarm join-token worker
 docker swarm join --token <đoạn token sinh ra từ lệnh ở trên>
 ```
 
-1. Tạo một overlay network:
+5. Tạo một overlay network:
 ```
 docker network create --attachable --driver overlay --subnet=10.200.1.0/24 hyperledger-ov
 ```
@@ -93,6 +93,7 @@ Cụ thể cho ví dụ trên:
  yarn genArtifacts -c mychannel -d example.com -o 2
 ```
 Lưu ý: Ở bước này, cần cài đặt đầy đủ các tools, mà ở đây là thư mục bin.
+
 8. Khởi chạy:
 * On Master host,
   * If you choose to configure with multiple orderers,
